@@ -1,0 +1,17 @@
+body {
+  background-color: gray;
+}
+
+h1 {
+  color: white;
+}
+
+#navigationMenu a {
+  background-color: gray;
+  color: white;
+}
+
+#navigationMenu a:hover {
+  background-color: white;
+  color: gray;
+}
